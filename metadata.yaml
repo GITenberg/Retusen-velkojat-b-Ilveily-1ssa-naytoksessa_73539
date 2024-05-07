@@ -1,0 +1,30 @@
+_repo: Retusen-velkojat-b-Ilveily-1ssa-naytoksessa_73539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jakku, Evald
+    aliases:
+    - Jakku, Ludvig Evald
+    - Jakku, Evald L.
+    birthdate: 1877
+    gutenberg_agent_id: '56944'
+    url: http://www.gutenberg.org/2009/agents/56944
+    wikipedia: https://fi.wikipedia.org/wiki/Evald_Jakku
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73539'
+language: fi
+pgterms:marc905: 20210806042240jakku
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aKuopio :$bU. W. Telén & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Retusen velkojat : $b Ilveily 1:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/73539
