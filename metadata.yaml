@@ -1,5 +1,8 @@
 _repo: Retusen-velkojat-b-Ilveily-1ssa-naytoksessa_73539
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jakku, Evald
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56944
     wikipedia: https://fi.wikipedia.org/wiki/Evald_Jakku
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73539#Retusen-velkojat-b-Ilveily-1ssa-naytoksessa
 gutenberg_issued: '2024-05-04'
 gutenberg_type: Text
 identifiers:
